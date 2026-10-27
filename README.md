@@ -1,4 +1,4 @@
-# STM32F446RE Custom Bootloader
+# STM32F446RE Microcontroller Custom Bootloader Development
 
 A custom bootloader for the STM32F446RE microcontroller, developed using bare-metal Embedded C and register-level programming. The project includes a separate user application and a Python-based host application for communicating with the bootloader over UART.
 
