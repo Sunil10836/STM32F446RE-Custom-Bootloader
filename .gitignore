@@ -1,0 +1,25 @@
+# Build output
+build/
+Debug/
+Release/
+
+# Compiled files
+*.o
+*.elf
+*.hex
+*.map
+*.lst
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-generated files
+Thumbs.db
+.DS_Store
